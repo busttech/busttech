@@ -40,11 +40,10 @@ Use tech to improve education and rural access in India
 
 🔗 Let’s Connect:
 
-LinkedIn: [Your LinkedIn URL]
+LinkedIn:https://www.linkedin.com/in/choudhary-tarun/
 
-Portfolio: [Your Portfolio Website, if any]
 
-Email: tarun.choudhary@example.com
+Email: tarun.choudhary@gmail.com
 
 Thanks for stopping by! Drop a ⭐ on any project you like, or reach out if you want to collaborate!
 
