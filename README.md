@@ -1,49 +1,50 @@
-Hi there! 👋 I'm Tarun Choudhary
+# 👋 Hi, I'm Tarun Choudhary  
 
-🚀 Flutter Developer | 🎯 Problem Solver | 📱 Tech for Impact
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&width=600&lines=Flutter+Developer+🚀;AI+Enthusiast+🧠;Building+Tech+for+Impact+🌍)](https://git.io/typing-svg)
 
-I'm an 18-year-old engineering student passionate about building impactful mobile applications that solve real-world problems — especially in education, agriculture, and community engagement.
+---
 
-🌱 Current Projects:
+## 🌱 Current Projects  
 
-Kissan Connect — Empowering farmers with access to schemes, products, and community support
+- 🌾 **Kissan Connect** — Empowering farmers with access to schemes, products, and community support  
+- 🤖 **AI Hub** — AI tools: book summarizer, object identifier, media-to-notes converter  
+- 👨‍🏫 **Student–Teacher Coding Platform** — Interactive platform for learning & problem-solving  
 
-AI Hub — A suite of AI tools including book summarizer, object identifier, and media-to-notes converter
+---
 
-NeuroTrainer — A brain-training app with memory and focus games (Work in Progress)
+## 💡 Tech Stack  
 
-💡 Tech Stack:
+![Flutter](https://skillicons.dev/icons?i=flutter) 
+![Dart](https://skillicons.dev/icons?i=dart) 
+![React](https://skillicons.dev/icons?i=react) 
+![Firebase](https://skillicons.dev/icons?i=firebase) 
+![Git](https://skillicons.dev/icons?i=git) 
+![Vscode](https://skillicons.dev/icons?i=vscode) 
+![Androidstudio](https://skillicons.dev/icons?i=androidstudio)
 
-💙 Flutter, Dart, React Native
+---
 
-🔥 Firebase, Cloudinary, REST APIs
+## 📊 GitHub Stats  
 
-🧠 Gemini, AI APIs, Hive, Provider
+![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=busttech&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busttech&layout=compact&theme=radical)  
 
-🧰 Git, VS Code, Android Studio
+---
 
-📈 What I'm Learning:
+## 🎯 Goals (2025)  
 
-Full-stack Flutter app deployment
+- ✅ Build **4–5 production-level apps** before **July 2025**  
+- 💼 Land a **Flutter internship**  
+- 🌍 Use tech to **improve education & rural access in India**  
 
-Firebase Firestore security & scaling
+---
 
-Performance optimization & animations
+## 📬 Connect with Me  
 
-📌 Goals:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/choudhary-tarun/)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarun.choudhary@gmail.com)  
 
-Build 4–5 production-level apps before July 2025
+---
 
-Land a Flutter internship
-
-Use tech to improve education and rural access in India
-
-🔗 Let’s Connect:
-
-LinkedIn:https://www.linkedin.com/in/choudhary-tarun/
-
-
-Email: tarun.choudhary@gmail.com
-
-Thanks for stopping by! Drop a ⭐ on any project you like, or reach out if you want to collaborate!
+![Profile Views](https://komarev.com/ghpvc/?username=Tarun-Choudhary&color=blueviolet&style=for-the-badge)
 
