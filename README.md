@@ -46,5 +46,5 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tarun-Choudhary&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=busttech&color=blueviolet&style=for-the-badge)
 
