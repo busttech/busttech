@@ -7,7 +7,7 @@
 ## 🌱 Current Projects  
 
 - 🌾 **Kissan Connect** — Empowering farmers with access to schemes, products, and community support  
-- 🤖 **AI Hub** — AI tools: book summarizer, object identifier, media-to-notes converter  
+- 🤖 **AI Hub** — AI tools: book summarizer, object identifier, media-to-notes converter
 - 👨‍🏫 **Student–Teacher Coding Platform** — Interactive platform for learning & problem-solving  
 
 ---
@@ -53,3 +53,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=busttech&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
+
